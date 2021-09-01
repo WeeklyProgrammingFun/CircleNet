@@ -1,0 +1,5 @@
+# don't copy all the logs for tensorboard
+runs/
+
+
+.ipynb_checkpoints/
